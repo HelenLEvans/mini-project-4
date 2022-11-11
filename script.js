@@ -12,4 +12,3 @@ var isWin = false;
 var timer;
 var timerCount;
 
-
